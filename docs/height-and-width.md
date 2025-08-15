@@ -119,3 +119,11 @@ const PercentageDimensionsBasics = () => {
 
 export default PercentageDimensionsBasics;
 ```
+{
+  "rnpm": {
+    "haste": {
+      "providesModuleNodeModules": ["react-native-example"],
+      "platforms": ["example"]
+    }
+  }
+}
